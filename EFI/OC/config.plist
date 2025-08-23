@@ -1077,7 +1077,7 @@
 			<key>MLB</key>
 			<string>F5K9181304NFHDDCB</string>
 			<key>ProcessorType</key>
-			<integer>3842</integer>
+			<integer>1537</integer>
 			<key>ROM</key>
 			<data>cDz7L1+e</data>
 			<key>SpoofVendor</key>
@@ -1130,7 +1130,7 @@
 			<key>PlatformFeature</key>
 			<integer>0</integer>
 			<key>ProcessorType</key>
-			<integer>3842</integer>
+			<integer>1537</integer>
 			<key>SmcVersion</key>
 			<data></data>
 			<key>SystemFamily</key>
