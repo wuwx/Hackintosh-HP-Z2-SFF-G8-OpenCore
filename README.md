@@ -14,8 +14,8 @@
 
 ## 🔧 OpenCore 版本
 
-- **OpenCore**: 0.7.8+
-- **配置版本**: 基于 OCC 2.78.0.2
+- **OpenCore**: 0.8.5 (REL-085-2022-10-04)
+- **配置版本**: 基于 OpenCore Configurator
 
 ## ✅ 功能状态
 
